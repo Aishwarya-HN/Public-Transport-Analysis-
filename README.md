@@ -25,6 +25,9 @@ The data includes monthly revenue, passenger counts, route details, and accident
 ## Usage
 Open the Excel file and use the slicers on the left to filter data by date, transport type, or route. The charts will update automatically to reflect your selections.
 
+## Final Dashboard-
+ ![image_alt](https://github.com/Aishwarya-HN/Public-Transport-Analysis-/blob/164e3a847e1e35d312a04ec381d61c0d6719d1c2/Screenshot%202025-08-11%20110157.png)
+
 # Public Transport Analysis Dashboard in Power BI
 
 This Power BI dashboard provides an interactive analysis of public transport data focused on Bus, Metro, and Tram services. The goal is to offer insights into passenger behavior, revenue generation, route efficiency, and service utilization to support data-driven decision making for urban transport management.
@@ -88,7 +91,11 @@ The dataset includes public transport trip records, passenger counts, revenue, f
 - Enhance passenger experience by monitoring trip durations and occupancy.
 - Support enforcement efforts by highlighting areas with higher fine collections.
 
----
+  ## Final Dashboard -
+  
+ ![image_alt](https://github.com/Aishwarya-HN/Public-Transport-Analysis-/blob/164e3a847e1e35d312a04ec381d61c0d6719d1c2/Screenshot%202025-08-11%20105934.png)
+
+
 
 # python
 This Python script loads a CSV dataset, performs basic exploratory checks, and applies common cleaning steps to prepare the data for analysis or modeling.
