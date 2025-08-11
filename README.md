@@ -39,6 +39,8 @@ This Power BI dashboard provides an interactive analysis of public transport dat
 - Fine Collection and Route Activity:Analyze fines collected alongside route activity levels.
 - Trip Duration Overview: Measure trip durations to assess service performance.
 
+ ![image_alt](https://github.com/Aishwarya-HN/Public-Transport-Analysis-/blob/1a566cf34d7be41c89e6301db2724990e8a22f80/Screenshot%202025-08-11%20103728.png)
+ 
 ## Data Source
 
 The dataset includes public transport trip records, passenger counts, revenue, fines, and trip durations for various routes and transport types across different months in 2025.
