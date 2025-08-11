@@ -116,6 +116,8 @@ Update the file_path variable in the script with your dataset’s file location.
 Run the script in a Python environment with pandas installed.
 After cleaning, find the new CSV file saved at the path specified by cleaned_path.
 
+## The table- 
 
+![image_alt](https://github.com/Aishwarya-HN/Public-Transport-Analysis-/blob/175ffb300a38892ec9f0c3a64e22550c1bc73c49/Screenshot%202025-08-11%20110939.png)
 
 
