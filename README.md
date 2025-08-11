@@ -38,9 +38,21 @@ This Power BI dashboard provides an interactive analysis of public transport dat
 - Passenger Distribution: Visualize passenger counts by transport type.
 - Fine Collection and Route Activity:Analyze fines collected alongside route activity levels.
 - Trip Duration Overview: Measure trip durations to assess service performance.
-
+- 
+## DAX Measures
+- Avg Revenue per Passenger = 
  ![image_alt](https://github.com/Aishwarya-HN/Public-Transport-Analysis-/blob/1a566cf34d7be41c89e6301db2724990e8a22f80/Screenshot%202025-08-11%20103728.png)
- 
+- Top 5 Maintaince = 
+ ![image_alt](https://github.com/Aishwarya-HN/Public-Transport-Analysis-/blob/f2a79b0c77aefd5b0ebfea32a986b9e9c9b1914f/Screenshot%202025-08-11%20103753.png)
+- Top 5 Routes Revenue = 
+![image_alt]( https://github.com/Aishwarya-HN/Public-Transport-Analysis-/blob/f2a79b0c77aefd5b0ebfea32a986b9e9c9b1914f/Screenshot%202025-08-11%20103804.png)
+- Total Passengers =
+ ![image_alt](https://github.com/Aishwarya-HN/Public-Transport-Analysis-/blob/f2a79b0c77aefd5b0ebfea32a986b9e9c9b1914f/Screenshot%202025-08-11%20103829.png)
+- Total Revenue =
+ ![image_alt](https://github.com/Aishwarya-HN/Public-Transport-Analysis-/blob/f2a79b0c77aefd5b0ebfea32a986b9e9c9b1914f/Screenshot%202025-08-11%20103838.png)
+- YoY Revenue % = 
+![image_alt]( https://github.com/Aishwarya-HN/Public-Transport-Analysis-/blob/f2a79b0c77aefd5b0ebfea32a986b9e9c9b1914f/Screenshot%202025-08-11%20103856.png)
+
 ## Data Source
 
 The dataset includes public transport trip records, passenger counts, revenue, fines, and trip durations for various routes and transport types across different months in 2025.
